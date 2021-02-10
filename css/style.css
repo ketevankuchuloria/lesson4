@@ -1,0 +1,204 @@
+
+/*index.html styles*/
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
+	display: inline-block;
+
+ }
+
+ .html-image {
+ 	margin-left: 58px;
+ 	margin-right:58px;
+ 	margin-top: 76px;
+ 	margin-bottom: 17px;
+}
+ 
+.navigation {
+    margin-left: 50px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 58px;
+}
+
+
+/*section 2 index.html file*/
+.section-title {
+	margin-bottom: 31px;
+	margin-top: 119px;
+	margin-left: 58px;
+	color: #3D58A6;
+	font-size: 22px;
+    font-family: 'Anton';
+}
+
+
+}
+
+.nav-li {
+	display: inline-block;
+	margin-right: 22px;
+	vertical-align: middle;
+}
+
+.left-block {
+	width:570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right: 29px;
+	padding-top: 13px;
+	margin-left: 58px;
+	margin-bottom: 68px;
+}
+
+.right-block {
+	width:570px;
+	background-color:#F2F2F2;
+	display: inline-block;
+	padding-top: 13px;
+	
+}
+
+.footer-html {
+	margin-left: 58px;
+}
+
+
+/*news.html style*/
+
+.image-news {
+	margin-left:30px;
+}
+
+
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	 color: #FFFFFF;
+	 margin-left: 30px;
+
+	}
+
+.section1 {
+	margin-top: 30px;
+}
+
+
+.header3 {
+	margin-top: 17px;
+	margin-bottom: 17px;
+	margin-left: 30px;
+	font-family: "BPG Arial", sans-serif;
+}
+
+.h2 {
+	margin-left: 30px;
+	font-family: "BPG Arial", sans-serif;
+}
+
+
+
+.image-block {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+
+}
+	
+.text-block {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-family: 'Big Shoulders Display', cursive;
+}
+
+/*footer*/
+.divider {
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-left: 36px;
+	margin-right: 30px;
+
+}
+
+
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	 color: #FFFFFF;
+	}
+
+
+.div-p {
+	display: inline-block;
+	width: 930px;
+	vertical-align: top;
+	margin-left: 29px;
+	margin-top: 21px;
+	font-family: "BPG Arial", sans-serif;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.map {
+	display: inline-block;
+	margin-top: 52px;
+	width: 848px;
+	height: 464px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+
+}
+
+.div-contact {
+	width: 261px;
+	height: 98px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 51px;
+	margin-left: 100px;
+}
+.contact {
+	font-family: 'BPG Nino Elite Exp';
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
